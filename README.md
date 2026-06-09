@@ -65,4 +65,4 @@ Since the dataset is heavily skewed toward Safe Users (Class 0), even a tiny mis
 
 1. Clone this repository:
 ```bash
-   git clone [https://github.com/your-username/loan-risk-prediction.git](https://github.com/your-username/loan-risk-prediction.git)
+   git clone [https://github.com/KoushalVaswani/Loan-Risk-Prediction-And-Fraud-Detection.git](https://github.com/KoushalVaswani/Loan-Risk-Prediction-And-Fraud-Detection.git)
